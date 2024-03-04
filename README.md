@@ -9,12 +9,12 @@ Streaming webcam on desktop computer or mobile, there is function to switch back
 Clone this repository to your local computer
 
 ```bash
-git https://github.com/iamvibhakar/face_detection_JS.git
+git clone https://github.com/iamvibhakar/face_detection_JS.git
 ```
 
 Point your localhost to the cloned root directory
 
-Browse to http://127.0.0.1:5500/index.html
+Run Local then Browse to-  http://127.0.0.1:5500/index.html
 
 ## Start Detecting
 
